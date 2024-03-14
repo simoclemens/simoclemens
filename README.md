@@ -1,7 +1,8 @@
-### Hi there, I am Simone👋
+<h2 align="left">Hi there, I am Simone👋</h2>
+<h3 align="left">A technology enthusiast from Italy :computer:</h3>
 
-#### A computer engineer with a deep interest for AI
-🔭 I’m currently working on Large Language Models editing techniques
+- :mortar_board: Currently doing my last year of master in **Data Science and Engineering @ Politecnico di Torino**
+- 📫Here you can find my email **simone.clemente000@gmail.com**
 
 <!--
 **simoclemens/simoclemens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
