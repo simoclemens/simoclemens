@@ -1,5 +1,5 @@
 <h2 align="left">Hi there, I am Simone👋</h2>
-<h3 align="left">A technology enthusiast from Italy :computer:</h3>
+<h4 align="left">A computer engineer with passion for AI</h4>
 
 - :mortar_board: Currently doing my last year of master in **Data Science and Engineering @ Politecnico di Torino**
 - 📫Here you can find my email **simone.clemente000@gmail.com**
