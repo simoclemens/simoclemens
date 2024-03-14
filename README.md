@@ -2,8 +2,8 @@
 <h4 align="left">A computer engineer with passion for AI</h4>
 
 - :mortar_board: Master student in **Data Science and Engineering** at **Politecnico di Torino**
-- :mortar_board: Currently doing research on Large Language Models 
-- 📫 Here you can find my email **simone.clemente000@gmail.com**
+- :microscope: Currently doing research on Large Language Models 
+- 📫 Contact me at **simone.clemente000@gmail.com**
 
 <!--
 **simoclemens/simoclemens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
