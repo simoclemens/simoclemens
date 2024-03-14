@@ -1,5 +1,7 @@
 ### Hi there, I am Simone👋
+
 #### A computer engineer with a deep interest for AI
+🔭 I’m currently working on Large Language Models editing techniques
 
 <!--
 **simoclemens/simoclemens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
