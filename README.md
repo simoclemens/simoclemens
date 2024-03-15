@@ -2,7 +2,7 @@
 <h4 align="left">A computer engineer with passion for AI</h4>
 
 - :mortar_board: Master student in **Data Science and Engineering** at **Politecnico di Torino**
-- :microscope: Currently doing research on Large Language Models 
+- :microscope: Currently doing research on **Large Language Models**
 - 📫 Contact me at **simone.clemente000@gmail.com**
 
 <!--
