@@ -1,8 +1,8 @@
 <h2 align="left">Hi there, I am Simone👋</h2>
 <h4 align="left">A computer engineer with passion for AI</h4>
 
-- :mortar_board: Master student in **Data Science and Engineering** at **Politecnico di Torino**
-- :microscope: Currently doing research on **Large Language Models**
+- :mortar_board: MSc in **Data Science and Engineering** at **Politecnico di Torino**
+- :computer: Currently working as **Data Scientist**
 - 📫 Contact me at **simone.clemente000@gmail.com**
 
 <!--
